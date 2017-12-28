@@ -1,0 +1,68 @@
+####Original Antergos Configuration
+
+<<<<<<< HEAD
+### SETTINGS START
+# only for virtualbox
+xrandr --output VGA-1 --mode 1920x1080
+=======
+#nitrogen --restore &
+#volumeicon &
+#compton --config ~/.config/compton.conf -b &
+#tint2 &
+#plank &
+#conky -c ~/.config/conky.conf &
+#lxpolkit &
+
+>>>>>>> ed913d55f272785b7cd2314aa7d87553423e5dfc
+
+#### Personal Configuration
+
+
+<<<<<<< HEAD
+blueberry-tray &
+
+xfsettingsd &
+
+plank &
+
+insync start &
+
+
+## Set keyboard settings - 250 ms delay and 25 cps (characters per second) repeat rate.
+## Adjust the values according to your preferances.
+xset r rate 250 25
+=======
+##compositor
+compton --config ~/.config/compton.conf -b &
+
+>>>>>>> ed913d55f272785b7cd2314aa7d87553423e5dfc
+
+##volume icons
+#volumeicon &
+pasystray &
+
+
+
+
+
+##panels
+#xfce4-panel &
+tint2 &
+
+
+##PolicyKit authentication
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+#lxpolkit &
+
+
+## numeric keyboard on
+numlockx on
+
+
+
+
+
+
+
+
+
