@@ -33,6 +33,13 @@ sh install-spotify-v1.sh
 
 sh install-rstudio-v1.sh
 
+
+# Sublime text 3
+
+sh install-sublime-text-v1.sh
+
+###############################################################################################
+
 # zsh
 
 sh install-zsh-v1.sh
