@@ -58,7 +58,7 @@ sh install-vmware-v1.sh
 
 ###############################################################################################
 
-
+sudo systemctl restart NetworkManager.service
 
 echo "################################################################"
 echo "####    all selected extra software  has been installed     ####"
