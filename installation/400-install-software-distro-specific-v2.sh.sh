@@ -25,7 +25,7 @@ sudo pacman -S nemo nemo-share nemo-fileroller --noconfirm --needed
 # packer -S nemo-compare
 
 # openbox - pacman
-sudo pacman -S compton--needed --noconfirm
+sudo pacman -S compton --needed --noconfirm
 sudo pacman -S dmenu --needed --noconfirm
 sudo pacman -S exo --needed --noconfirm
 sudo pacman -S feh --needed --noconfirm
