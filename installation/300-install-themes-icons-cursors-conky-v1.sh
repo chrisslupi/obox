@@ -57,7 +57,7 @@ sh plank-themes-v3.sh
 #sh install-breeze-cursor-theme-v1.sh
 # broken
 
-sh install-archcusor-blue-v1.sh
+sh install-breeze-cursor-theme-v1.sh
 
 
 
